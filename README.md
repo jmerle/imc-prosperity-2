@@ -21,7 +21,7 @@ This is a list of all my open-source Prosperity 2 tools:
             <th colspan="2" style="text-align: center">Visualizer links</th>
         </tr>
         <tr>
-            <th>Round</th>
+            <th></th>
             <th>Overall</th>
             <th>Manual</th>
             <th>Algo</th>
@@ -29,7 +29,7 @@ This is a list of all my open-source Prosperity 2 tools:
             <th>Overall</th>
             <th>Manual</th>
             <th>Algo</th>
-            <th>Country (NL)</th>
+            <th>Country</th>
             <th>Submission</th>
             <th>Final</th>
         </tr>
