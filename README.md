@@ -36,7 +36,7 @@ This is a list of all my open-source Prosperity 2 tools:
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round1.py" target="_blank">1</a></td>
+            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round1.py">1</a></td>
             <td>133,761</td>
             <td>102,028</td>
             <td>31,733</td>
@@ -45,11 +45,11 @@ This is a list of all my open-source Prosperity 2 tools:
             <td>349</td>
             <td>265</td>
             <td>10</td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round1-submission.log" target="_blank">Link</a></td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round1-final.log" target="_blank">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round1-submission.log">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round1-final.log">Link</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round2.py" target="_blank">2</a></td>
+            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round2.py">2</a></td>
             <td>842,398</td>
             <td>113,938</td>
             <td>594,698</td>
@@ -58,11 +58,11 @@ This is a list of all my open-source Prosperity 2 tools:
             <td>319</td>
             <td>6</td>
             <td>1</td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round2-submission.log" target="_blank">Link</a></td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round2-final.log" target="_blank">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round2-submission.log">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round2-final.log">Link</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round3.py" target="_blank">3</a></td>
+            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round3.py">3</a></td>
             <td>985,116</td>
             <td>78,577</td>
             <td>64,141</td>
@@ -71,11 +71,11 @@ This is a list of all my open-source Prosperity 2 tools:
             <td>452</td>
             <td>11</td>
             <td>1</td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round3-submission.log" target="_blank">Link</a></td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round3-final.log" target="_blank">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round3-submission.log">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round3-final.log">Link</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round4.py" target="_blank">4</a></td>
+            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round4.py">4</a></td>
             <td>1,331,214</td>
             <td>102,592</td>
             <td>234,505</td>
@@ -84,11 +84,11 @@ This is a list of all my open-source Prosperity 2 tools:
             <td>349</td>
             <td>9</td>
             <td>1</td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round4-submission.log" target="_blank">Link</a></td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round4-final.log" target="_blank">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round4-submission.log">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round4-final.log">Link</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round5.py" target="_blank">5</a></td>
+            <td><a href="https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round5.py">5</a></td>
             <td>1,700,672</td>
             <td>115,500</td>
             <td>253,956</td>
@@ -97,8 +97,8 @@ This is a list of all my open-source Prosperity 2 tools:
             <td>160</td>
             <td>8</td>
             <td>1</td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round5-submission.log" target="_blank">Link</a></td>
-            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round5-final.log" target="_blank">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round5-submission.log">Link</a></td>
+            <td><a href="https://jmerle.github.io/imc-prosperity-2-visualizer/?open=https://raw.githubusercontent.com/jmerle/imc-prosperity-2/master/logs/round5-final.log">Link</a></td>
         </tr>
     </tbody>
 </table>
