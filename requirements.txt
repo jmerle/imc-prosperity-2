@@ -1,0 +1,9 @@
+jsonpickle
+jupyterlab
+matplotlib
+numpy
+pandas
+plotly
+randomcolor
+scikit-learn
+tqdm
